@@ -1,7 +1,7 @@
 
 import React, { useState, useEffect } from 'react';
 import { NavTab, User } from './types';
-import Layout from './component/Layout';
+import Layout from './components/Layout';
 import Home from './Home';
 import Explore from './Explore';
 import RouteTracker from './RouteTracker';
