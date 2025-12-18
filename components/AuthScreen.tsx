@@ -7,6 +7,7 @@ interface AuthScreenProps {
 const AuthScreen: React.FC<AuthScreenProps> = ({ onLogin }) => {
   return (
     <div className="h-screen w-screen max-w-md mx-auto bg-[#1A1A1B] flex flex-col justify-between p-10 relative overflow-hidden">
+<img src="/logo.png" alt="Logo CAIS" />
       
       {/* Brillo ambiental naranja */}
       <div className="absolute top-0 right-0 w-80 h-80 bg-[#FF6B00] opacity-10 rounded-full -translate-y-1/2 translate-x-1/2 blur-[100px]" />
