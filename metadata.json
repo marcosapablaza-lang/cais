@@ -1,0 +1,7 @@
+{
+  "name": "Cais Chile AMI",
+  "description": "A high-performance mobile-first application for Chilean motorcyclists featuring GPS route tracking, place reviews, and a social biker feed.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
